@@ -12,4 +12,4 @@ pycbc_geom_nonspinbank \
   --max-mass1 2.5 \
   --min-mass2 1 \
   --max-mass2 2.5 \
-  --psd-model CosmicExplorerP1600143
+  --psd-file ./download/ce_strain/cosmic_explorer_strain.txt
